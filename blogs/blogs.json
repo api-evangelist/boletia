@@ -2,6 +2,13 @@
   "repo": "boletia",
   "feeds": [
     {
+      "source": "https://blog.boletia.com/eventos",
+      "feed_url": "https://blog.boletia.com/organizadores/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
       "source": "https://github.com/boletia",
       "feed_url": "https://github.com/boletia",
       "title": "",
@@ -10,5 +17,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
